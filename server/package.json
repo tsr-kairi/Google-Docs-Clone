@@ -11,6 +11,7 @@
   "author": "Ranjit kairi",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^6.2.1",
     "nodemon": "^2.0.15",
     "socket.io": "^4.4.1"
   }
